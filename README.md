@@ -74,7 +74,7 @@ Sign in at [redeconv.stjude.org](https://redeconv.stjude.org/#signin)
 
 ## Demo data
 
-These data sets include demo data for [normalization](https://redeconv.stjude.org/dl/data/demo_normalization.zip) and [deconvolution](https://redeconv.stjude.org/dl/data/demo_deconvolution.zip). The sizes of files in the demo data are not very large. So, the time to test our model should be finished within 20 minutes.
+These data sets include demo data for [normalization](https://redeconv.stjude.org/dl/data/demo_normalization.tar.gz) and [deconvolution](https://redeconv.stjude.org/dl/data/demo_deconvolution.tar.gz). The sizes of files in the demo data are not very large. So, the time to test our model should be finished within 20 minutes.
 
 ## Data for ReDeconv evaluation
 
